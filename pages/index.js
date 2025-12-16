@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>Poderia me servir um café?</h1>;
+  return <h1>Ninguém liga! \o/</h1>;
 }
 
 export default Home;
